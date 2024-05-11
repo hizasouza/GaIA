@@ -1,1 +1,1 @@
-# GaIA
+# Este chatbot é uma ferramenta educacional projetada para introduzir crianças e adolescentes ao mundo da inteligência artificial (IA). O objetivo é fornecer uma plataforma segura e informativa onde os jovens possam fazer perguntas e receber até três referências de alta qualidade para cada pergunta. Isso permite que eles explorem e aprendam de maneira autodidata, incentivando a busca por conhecimento e o desenvolvimento de habilidades de pesquisa.
